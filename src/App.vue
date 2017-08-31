@@ -44,8 +44,8 @@
     methods:{
       addItem () {
         Vue.set(this.list,1,{
-          name: 'my1ccc',
-          price: "999"
+          name: 'MYCCC',
+          price: "123456789"
         })
       }
     }
